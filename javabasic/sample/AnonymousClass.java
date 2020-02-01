@@ -30,9 +30,12 @@ public class AnonymousClass {
 			public void author() {
 				System.out.println("Book has been written by a famous author.");
 			}
-			public void pages() {
+			
+			// Uncomment to check what happens.
+			
+			/* public void pages() {
 				System.out.println("Printing the number of pages inside main.");
-			}
+			} */
 		};
 
 		b1.name();

@@ -9,5 +9,7 @@
 	<classpathentry kind="src" path="Inheritence"/>
 	<classpathentry kind="src" path="testinstance"/>
 	<classpathentry kind="src" path="pppexample"/>
+	<classpathentry kind="src" path="file-handling"/>
+	<classpathentry kind="src" path="handlingexception"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

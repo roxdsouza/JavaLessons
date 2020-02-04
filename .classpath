@@ -11,5 +11,6 @@
 	<classpathentry kind="src" path="pppexample"/>
 	<classpathentry kind="src" path="file-handling"/>
 	<classpathentry kind="src" path="handlingexception"/>
+	<classpathentry kind="src" path="AbstractClassTest"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,5 +1,10 @@
 package sample;
 
+//Basic "Hello World" example.
+//Course from "Udemy".
+//John - Java tutorials for complete beginners
+//Github - https://github.com/caveofprogramming/java-beginners.git
+
 // This example is to test the anonymous classes
 
 class Books {

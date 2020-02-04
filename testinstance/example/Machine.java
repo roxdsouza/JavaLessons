@@ -1,5 +1,7 @@
 package example;
 
+// Machine class implements interface InfoInterface 
+
 public class Machine implements InfoInterface {
 
 	private int id = 7;

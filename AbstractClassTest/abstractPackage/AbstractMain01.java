@@ -11,6 +11,8 @@ package abstractPackage;
 // a body. The body is provided by the subclass (inherited from). An abstract 
 // class can have both abstract and regular methods.
 
+//Its better use an abstract class at the top most level of the class hierarchy.
+
 public class AbstractMain01 {
 
 	public static void main(String[] args) {		

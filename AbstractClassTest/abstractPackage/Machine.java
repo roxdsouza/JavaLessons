@@ -10,6 +10,7 @@ package abstractPackage;
 // 2. A class can have only one parent class whereas 
 // a class can implement multiple interfaces.
 
+// Its better use an abstract class at the top most level of the class hierarchy.
 
 public abstract class Machine {
 

@@ -13,5 +13,7 @@
 	<classpathentry kind="src" path="handlingexception"/>
 	<classpathentry kind="src" path="AbstractClassTest"/>
 	<classpathentry kind="src" path="innerclasses"/>
+	<classpathentry kind="src" path="EnumTest"/>
+	<classpathentry kind="src" path="SerializationTest"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -2,7 +2,8 @@ package sample;
 
 // Understanding string formatting
 // Using the toString method
-// More information on toString method - https://www.javatpoint.com/understanding-toString()-method
+// More information on toString method - 
+// https://www.javatpoint.com/understanding-toString()-method
 
 class FormatterText {
 	String name;

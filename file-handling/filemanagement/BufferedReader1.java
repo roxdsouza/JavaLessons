@@ -40,7 +40,11 @@ public class BufferedReader1 {
 			System.out.println("File not found: " + f1.toString());
 		} catch (IOException e) {
 			System.out.println("Unable to read file: " + f1.toString());
-		} finally {
+		} 
+		// finally will always be executed towards the end of the exception 
+		// to help the program end gracefully.
+		
+		finally {
 			try {
 				br.close();
 			} catch (IOException e) {

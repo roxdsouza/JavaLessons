@@ -28,7 +28,10 @@ public class HandlingException {
 			// on the same line as the main method.			
 			fr1.close();
 		} catch (FileNotFoundException e1) {
+			System.out.println("Inside the exception...");
 			System.out.println(e1.getMessage());
+		} finally {
+			System.out.println("Program closing successfully!");
 		}
 	}
 }

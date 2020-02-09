@@ -29,10 +29,6 @@ public class WriteObjects01 {
 
 			os.writeInt(peopleList.size());
 
-			for (Person person : people) {
-				os.writeObject(person);
-			}
-
 			for (Person person : peopleList) {
 				os.writeObject(person);
 			}

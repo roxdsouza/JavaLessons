@@ -25,10 +25,12 @@ public class ReadObjects01 {
 			ArrayList<Person> peopleList = (ArrayList<Person>) os.readObject();
 
 			for (Person person : people) {
+				System.out.print("-->");
 				System.out.println(person);
 			}
 
 			for (Person person : peopleList) {
+				System.out.print("+++");
 				System.out.println(person);
 			}
 
@@ -36,6 +38,7 @@ public class ReadObjects01 {
 
 			for (int i = 0; i < num; i++) {
 				Person person = (Person) os.readObject();
+				System.out.print("->->");
 				System.out.println(person);
 			}
 
